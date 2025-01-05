@@ -1,0 +1,852 @@
+Año;Categoría;Posición;Nombre;Nacionalidad;Equipo;Puntos Originales;Puntos Ajustados;Sistema de Puntuación
+2000;Piloto;1;Michael Schumacher;Alemán;Ferrari;108;238;Sist. Antiguo
+2000;Piloto;2;Mika Häkkinen;Finlandés;McLaren;89;194;Sist. Antiguo
+2000;Piloto;3;David Coulthard;Británico;McLaren;73;163;Sist. Antiguo
+2000;Piloto;4;Rubens Barrichello;Brasileño;Ferrari;62;136;Sist. Antiguo
+2000;Piloto;5;Ralf Schumacher;Alemán;Williams;24;66;Sist. Antiguo
+2000;Piloto;6;Giancarlo Fisichella;Italiano;Benetton;18;58;Sist. Antiguo
+2000;Piloto;7;Jacques Villeneuve;Canadiense;BAR;17;34;Sist. Antiguo
+2000;Piloto;8;Eddie Irvine;Británico;Jaguar;4;12;Sist. Antiguo
+2000;Piloto;9;Jarno Trulli;Italiano;Jordan;6;12;Sist. Antiguo
+2000;Piloto;10;Mika Salo;Finlandés;Sauber;6;12;Sist. Antiguo
+2000;Piloto;11;Jenson Button;Británico;Williams;12;24;Sist. Antiguo
+2000;Piloto;12;Jos Verstappen;Neerlandés;Arrows;5;10;Sist. Antiguo
+2000;Piloto;13;Pedro de la Rosa;Español;Arrows;2;6;Sist. Antiguo
+2000;Piloto;14;Alexander Wurz;Austriaco;Benetton;2;4;Sist. Antiguo
+2000;Piloto;15;Pedro Diniz;Brasileño;Sauber;0;4;Sist. Antiguo
+2000;Piloto;16;Nick Heidfeld;Alemán;Prost;0;0;Sist. Antiguo
+2000;Piloto;17;Jean Alesi;Francés;Prost;0;0;Sist. Antiguo
+2000;Piloto;18;Johnny Herbert;Británico;Jaguar;0;0;Sist. Antiguo
+2000;Piloto;19;Luciano Burti;Brasileño;Jaguar;0;0;Sist. Antiguo
+2000;Piloto;20;Marc Gené;Español;Minardi;0;0;Sist. Antiguo
+2000;Piloto;21;Gastón Mazzacane;Argentino;Minardi;0;0;Sist. Antiguo
+2000;Constructor;1;Ferrari;Italia;;170;374;Sist. Antiguo
+2000;Constructor;2;McLaren;Reino Unido;;152;357;Sist. Antiguo
+2000;Constructor;3;Williams;Reino Unido;;36;90;Sist. Antiguo
+2000;Constructor;4;Benetton;Italia;;20;62;Sist. Antiguo
+2000;Constructor;5;BAR;Reino Unido;;20;34;Sist. Antiguo
+2000;Constructor;6;Jordan;Irlanda;;17;22;Sist. Antiguo
+2000;Constructor;7;Jaguar;Reino Unido;;4;12;Sist. Antiguo
+2000;Constructor;8;Sauber;Suiza;;6;16;Sist. Antiguo
+2000;Constructor;9;Arrows;Reino Unido;;7;16;Sist. Antiguo
+2000;Constructor;10;Prost;Francia;;0;0;Sist. Antiguo
+2000;Constructor;11;Minardi;Italia;;0;0;Sist. Antiguo
+2001;Piloto;1;Michael Schumacher;Alemán;Ferrari;123;238;Sist. Antiguo
+2001;Piloto;2;David Coulthard;Británico;McLaren;65;134;Sist. Antiguo
+2001;Piloto;3;Rubens Barrichello;Brasileño;Ferrari;56;112;Sist. Antiguo
+2001;Piloto;4;Ralf Schumacher;Alemán;Williams;49;98;Sist. Antiguo
+2001;Piloto;5;Mika Häkkinen;Finlandés;McLaren;37;74;Sist. Antiguo
+2001;Piloto;6;Juan Pablo Montoya;Colombiano;Williams;31;62;Sist. Antiguo
+2001;Piloto;7;Jacques Villeneuve;Canadiense;BAR;12;24;Sist. Antiguo
+2001;Piloto;8;Giancarlo Fisichella;Italiano;Benetton;8;16;Sist. Antiguo
+2001;Piloto;9;Heinz-Harald Frentzen;Alemán;Jordan;6;12;Sist. Antiguo
+2001;Piloto;10;Jarno Trulli;Italiano;Jordan;12;24;Sist. Antiguo
+2001;Piloto;11;Nick Heidfeld;Alemán;Sauber;12;24;Sist. Antiguo
+2001;Piloto;12;Kimi Räikkönen;Finlandés;Sauber;9;18;Sist. Antiguo
+2001;Piloto;13;Eddie Irvine;Británico;Jaguar;6;12;Sist. Antiguo
+2001;Piloto;14;Jean Alesi;Francés;Jordan;5;10;Sist. Antiguo
+2001;Piloto;15;Pedro de la Rosa;Español;Jaguar;3;6;Sist. Antiguo
+2001;Piloto;16;Jenson Button;Británico;Benetton;2;4;Sist. Antiguo
+2001;Piloto;17;Enrique Bernoldi;Brasileño;Arrows;0;0;Sist. Antiguo
+2001;Piloto;18;Jos Verstappen;Neerlandés;Arrows;1;2;Sist. Antiguo
+2001;Piloto;19;Fernando Alonso;Español;Minardi;0;0;Sist. Antiguo
+2001;Piloto;20;Luciano Burti;Brasileño;Prost;0;0;Sist. Antiguo
+2001;Piloto;21;Gastón Mazzacane;Argentino;Prost;0;0;Sist. Antiguo
+2001;Piloto;22;Alex Yoong;Malayo;Minardi;0;0;Sist. Antiguo
+2001;Piloto;23;Tarso Marques;Brasileño;Minardi;0;0;Sist. Antiguo
+2001;Piloto;24;Ricardo Zonta;Brasileño;Jordan;0;0;Sist. Antiguo
+2001;Piloto;25;Tomáš Enge;Checo;Prost;0;0;Sist. Antiguo
+2001;Constructor;1;Ferrari;Italia;;179;350;Sist. Antiguo
+2001;Constructor;2;McLaren;Reino Unido;;102;208;Sist. Antiguo
+2001;Constructor;3;Williams;Reino Unido;;80;160;Sist. Antiguo
+2001;Constructor;4;Sauber;Suiza;;21;42;Sist. Antiguo
+2001;Constructor;5;Jordan;Irlanda;;19;38;Sist. Antiguo
+2001;Constructor;6;BAR;Reino Unido;;17;34;Sist. Antiguo
+2001;Constructor;7;Benetton;Italia;;10;20;Sist. Antiguo
+2001;Constructor;8;Jaguar;Reino Unido;;9;18;Sist. Antiguo
+2001;Constructor;9;Arrows;Reino Unido;;1;2;Sist. Antiguo
+2001;Constructor;10;Prost;Francia;;0;0;Sist. Antiguo
+2001;Constructor;11;Minardi;Italia;;0;0;Sist. Antiguo
+2002;Piloto;1;Michael Schumacher;Alemán;Ferrari;144;284;Sist. Antiguo
+2002;Piloto;2;Rubens Barrichello;Brasileño;Ferrari;77;172;Sist. Antiguo
+2002;Piloto;3;Juan Pablo Montoya;Colombiano;Williams;50;82;Sist. Antiguo
+2002;Piloto;4;Ralf Schumacher;Alemán;Williams;42;78;Sist. Antiguo
+2002;Piloto;5;David Coulthard;Británico;McLaren;41;76;Sist. Antiguo
+2002;Piloto;6;Kimi Räikkönen;Finlandés;McLaren;24;74;Sist. Antiguo
+2002;Piloto;7;Jenson Button;Británico;Renault;14;44;Sist. Antiguo
+2002;Piloto;8=;Jarno Trulli;Italiano;Renault;9;33;Sist. Antiguo
+2002;Piloto;8=;Eddie Irvine;Británico;Jaguar;8;33;Sist. Antiguo
+2002;Piloto;10;Nick Heidfeld;Alemán;Sauber;7;30;Sist. Antiguo
+2002;Piloto;11=;Mika Salo;Finlandés;Toyota;2;22;Sist. Antiguo
+2002;Piloto;11=;Heinz-Harald Frentzen;Alemán;Arrows/Sauber;2;22;Sist. Antiguo
+2002;Piloto;11=;Jacques Villeneuve;Canadiense;BAR;4;22;Sist. Antiguo
+2002;Piloto;14=;Felipe Massa;Brasileño;Sauber;4;20;Sist. Antiguo
+2002;Piloto;14=;Mark Webber;Australiano;Minardi;2;20;Sist. Antiguo
+2002;Piloto;16=;Olivier Panis;Francés;BAR;3;18;Sist. Antiguo
+2002;Piloto;16=;Takuma Sato;Japonés;Jordan;2;18;Sist. Antiguo
+2002;Piloto;16=;Giancarlo Fisichella;Italiano;Jordan;7;18;Sist. Antiguo
+2002;Piloto;19;Pedro de la Rosa;Español;Jaguar;0;12;Sist. Antiguo
+2002;Piloto;20;Allan McNish;Británico;Toyota;0;10;Sist. Antiguo
+2002;Piloto;21;Alex Yoong;Malayo;Minardi;0;8;Sist. Antiguo
+2002;Piloto;22;Anthony Davidson;Británico;Minardi;0;6;Sist. Antiguo
+2002;Constructor;1;Ferrari;Italia;;221;456;Sist. Antiguo
+2002;Constructor;2;Williams;Reino Unido;;92;160;Sist. Antiguo
+2002;Constructor;3;McLaren;Reino Unido;;65;150;Sist. Antiguo
+2002;Constructor;4;Renault;Francia;;23;77;Sist. Antiguo
+2002;Constructor;5;Sauber;Suiza;;11;50;Sist. Antiguo
+2002;Constructor;6;Jordan;Irlanda;;9;36;Sist. Antiguo
+2002;Constructor;7;Jaguar;Reino Unido;;8;33;Sist. Antiguo
+2002;Constructor;8;Bar;Reino Unido;;7;30;Sist. Antiguo
+2002;Constructor;9;Minardi;Italia;;2;20;Sist. Antiguo
+2002;Constructor;10;Toyota;Japón;;2;20;Sist. Antiguo
+2003;Piloto;1;Michael Schumacher;Alemán;Ferrari;93;248;Sist. Antiguo
+2003;Piloto;2;Kimi Räikkönen;Finlandés;McLaren;91;241;Sist. Antiguo
+2003;Piloto;3;Juan Pablo Montoya;Colombiano;Williams;82;220;Sist. Antiguo
+2003;Piloto;4;Rubens Barrichello;Brasileño;Ferrari;65;178;Sist. Antiguo
+2003;Piloto;5;Ralf Schumacher;Alemán;Williams;58;160;Sist. Antiguo
+2003;Piloto;6;Fernando Alonso;Español;Renault;55;152;Sist. Antiguo
+2003;Piloto;7;David Coulthard;Británico;McLaren;51;142;Sist. Antiguo
+2003;Piloto;8;Jarno Trulli;Italiano;Renault;33;96;Sist. Antiguo
+2003;Piloto;9;Jenson Button;Británico;BAR;17;56;Sist. Antiguo
+2003;Piloto;10;Mark Webber;Australiano;Jaguar;17;52;Sist. Antiguo
+2003;Piloto;11;Giancarlo Fisichella;Italiano;Jordan;12;44;Sist. Antiguo
+2003;Piloto;12;Heinz-Harald Frentzen;Alemán;Sauber;13;42;Sist. Antiguo
+2003;Piloto;13;Nick Heidfeld;Alemán;Sauber;6;24;Sist. Antiguo
+2003;Piloto;14;Justin Wilson;Británico;Minardi/Jaguar;1;6;Sist. Antiguo
+2003;Piloto;15;Jos Verstappen;Neerlandés;Minardi;0;0;Sist. Antiguo
+2003;Piloto;16;Ralph Firman;Británico;Jordan;0;0;Sist. Antiguo
+2003;Piloto;17;Zsolt Baumgartner;Húngaro;Jordan;0;0;Sist. Antiguo
+2003;Piloto;18;Nicolas Kiesa;Dinamarqués;Minardi;0;0;Sist. Antiguo
+2003;Piloto;19;Antonio Pizzonia;Brasileño;Jaguar;0;0;Sist. Antiguo
+2003;Piloto;20;Olivier Panis;Francés;Toyota;6;22;Sist. Antiguo
+2003;Piloto;21;Cristiano da Matta;Brasileño;Toyota;10;28;Sist. Antiguo
+2003;Piloto;22;Jacques Villeneuve;Canadiense;BAR;6;20;Sist. Antiguo
+2003;Piloto;23;Takuma Sato;Japonés;BAR;3;10;Sist. Antiguo
+2003;Constructor;1;Ferrari;Italia;;158;426;Sist. Antiguo
+2003;Constructor;2;Williams;Reino Unido;;144;380;Sist. Antiguo
+2003;Constructor;3;McLaren;Reino Unido;;142;383;Sist. Antiguo
+2003;Constructor;4;Renault;Francia;;88;248;Sist. Antiguo
+2003;Constructor;5;BAR;Reino Unido;;26;86;Sist. Antiguo
+2003;Constructor;6;Sauber;Suiza;;19;66;Sist. Antiguo
+2003;Constructor;7;Jaguar;Reino Unido;;18;52;Sist. Antiguo
+2003;Constructor;8;Toyota;Japón;;16;50;Sist. Antiguo
+2003;Constructor;9;Jordan;Irlanda;;13;44;Sist. Antiguo
+2003;Constructor;10;Minardi;Italia;;0;0;Sist. Antiguo
+2004;Piloto;1;Michael Schumacher;Alemán;Ferrari;148;322;Sist. Antiguo
+2004;Piloto;2;Rubens Barrichello;Brasileño;Ferrari;114;242;Sist. Antiguo
+2004;Piloto;3;Jenson Button;Británico;BAR-Honda;85;168;Sist. Antiguo
+2004;Piloto;4;Fernando Alonso;Español;Renault;59;122;Sist. Antiguo
+2004;Piloto;5;Juan Pablo Montoya;Colombiano;Williams-BMW;58;120;Sist. Antiguo
+2004;Piloto;6;Jarno Trulli;Italiano;Renault;46;98;Sist. Antiguo
+2004;Piloto;7;Kimi Räikkönen;Finlandés;McLaren-Mercedes;45;96;Sist. Antiguo
+2004;Piloto;8;Ralf Schumacher;Alemán;Williams-BMW;24;60;Sist. Antiguo
+2004;Piloto;9;Giancarlo Fisichella;Italiano;Sauber-Petronas;22;56;Sist. Antiguo
+2004;Piloto;10;David Coulthard;Británico;McLaren-Mercedes;24;54;Sist. Antiguo
+2004;Piloto;11;Felipe Massa;Brasileño;Sauber-Petronas;12;38;Sist. Antiguo
+2004;Piloto;12;Mark Webber;Australiano;Jaguar-Cosworth;7;28;Sist. Antiguo
+2004;Piloto;13;Takuma Sato;Japonés;BAR-Honda;34;86;Sist. Antiguo
+2004;Piloto;14;Christian Klien;Austriaco;Jaguar-Cosworth;3;12;Sist. Antiguo
+2004;Piloto;15;Olivier Panis;Francés;Toyota;6;18;Sist. Antiguo
+2004;Piloto;16;Nick Heidfeld;Alemán;Jordan-Ford;3;9;Sist. Antiguo
+2004;Piloto;17;Timo Glock;Alemán;Jordan-Ford;2;8;Sist. Antiguo
+2004;Piloto;18;Zsolt Baumgartner;Húngaro;Minardi-Cosworth;1;6;Sist. Antiguo
+2004;Piloto;19;Gianmaria Bruni;Italiano;Minardi-Cosworth;0;0;Sist. Antiguo
+2004;Piloto;20;Giorgio Pantano;Italiano;Jordan-Ford;0;0;Sist. Antiguo
+2004;Piloto;21;Antonio Pizzonia;Brasileño;Williams-BMW;6;16;Sist. Antiguo
+2004;Piloto;22;Jacques Villeneuve;Canadiense;Renault;0;0;Sist. Antiguo
+2004;Piloto;23;Ricardo Zonta;Brasileño;Toyota;0;0;Sist. Antiguo
+2004;Constructor;1;Ferrari;Italia;;262;564;Sist. Antiguo
+2004;Constructor;2;BAR-Honda;Reino Unido;;119;254;Sist. Antiguo
+2004;Constructor;3;Renault;Francia;;105;220;Sist. Antiguo
+2004;Constructor;4;Williams-BMW;Reino Unido;;88;196;Sist. Antiguo
+2004;Constructor;5;McLaren-Mercedes;Reino Unido;;69;150;Sist. Antiguo
+2004;Constructor;6;Sauber-Petronas;Suiza;;34;94;Sist. Antiguo
+2004;Constructor;7;Jaguar-Cosworth;Reino Unido;;10;40;Sist. Antiguo
+2004;Constructor;8;Toyota;Japón;;9;18;Sist. Antiguo
+2004;Constructor;9;Jordan-Ford;Irlanda;;5;17;Sist. Antiguo
+2004;Constructor;10;Minardi-Cosworth;Italia;;1;6;Sist. Antiguo
+2005;Piloto;1;Fernando Alonso;Español;Renault;133;267;Sist. Antiguo
+2005;Piloto;2;Kimi Räikkönen;Finlandés;McLaren-Mercedes;112;238;Sist. Antiguo
+2005;Piloto;3;Michael Schumacher;Alemán;Ferrari;62;124;Sist. Antiguo
+2005;Piloto;4;Juan Pablo Montoya;Colombiano;McLaren-Mercedes;60;120;Sist. Antiguo
+2005;Piloto;5;Giancarlo Fisichella;Italiano;Renault;58;116;Sist. Antiguo
+2005;Piloto;6;Rubens Barrichello;Brasileño;Ferrari;38;76;Sist. Antiguo
+2005;Piloto;7;Jenson Button;Británico;BAR-Honda;37;74;Sist. Antiguo
+2005;Piloto;8;Jarno Trulli;Italiano;Toyota;43;72;Sist. Antiguo
+2005;Piloto;9;Ralf Schumacher;Alemán;Toyota;45;71;Sist. Antiguo
+2005;Piloto;10;David Coulthard;Británico;Red Bull Racing;24;48;Sist. Antiguo
+2005;Piloto;11;Felipe Massa;Brasileño;Sauber-Petronas;11;22;Sist. Antiguo
+2005;Piloto;12;Mark Webber;Australiano;Williams-BMW;36;66;Sist. Antiguo
+2005;Piloto;13;Nick Heidfeld;Alemán;Williams-BMW;28;58;Sist. Antiguo
+2005;Piloto;14;Jacques Villeneuve;Canadiense;Sauber-Petronas;9;18;Sist. Antiguo
+2005;Piloto;15;Tiago Monteiro;Portugués;Jordan-Toyota;7;14;Sist. Antiguo
+2005;Piloto;16;Narain Karthikeyan;Indio;Jordan-Toyota;5;10;Sist. Antiguo
+2005;Piloto;17;Christijan Albers;Neerlandés;Minardi-Cosworth;4;8;Sist. Antiguo
+2005;Piloto;18;Patrick Friesacher;Austriaco;Minardi-Cosworth;3;6;Sist. Antiguo
+2005;Piloto;19;Christian Klien;Austriaco;Red Bull Racing;13;26;Sist. Antiguo
+2005;Piloto;20;Robert Doornbos;Neerlandés;Minardi-Cosworth;0;0;Sist. Antiguo
+2005;Piloto;21;Vitantonio Liuzzi;Italiano;Red Bull Racing;1;2;Sist. Antiguo
+2005;Piloto;22;Alexander Wurz;Austriaco;McLaren-Mercedes;6;12;Sist. Antiguo
+2005;Piloto;23;Pedro de la Rosa;Español;McLaren-Mercedes;4;8;Sist. Antiguo
+2005;Piloto;24;Anthony Davidson;Británico;BAR-Honda;0;0;Sist. Antiguo
+2005;Piloto;25;Takuma Sato;Japonés;BAR-Honda;1;2;Sist. Antiguo
+2005;Piloto;26;Ricardo Zonta;Brasileño;Toyota;0;0;Sist. Antiguo
+2005;Piloto;27;Franck Montagny;Francés;Renault;0;0;Sist. Antiguo
+2005;Piloto;28;Scott Speed;Estadounidense;Red Bull Racing;0;0;Sist. Antiguo
+2005;Piloto;29;Nicolas Kiesa;Dinamarqués;Jordan-Toyota;0;0;Sist. Antiguo
+2005;Piloto;30;Robert Kubica;Polaco;Renault;0;0;Sist. Antiguo
+2005;Constructor;1;Renault;Francia;;191;383;Sist. Antiguo
+2005;Constructor;2;McLaren-Mercedes;Reino Unido;;182;370;Sist. Antiguo
+2005;Constructor;3;Ferrari;Italia;;100;200;Sist. Antiguo
+2005;Constructor;4;Toyota;Japón;;88;143;Sist. Antiguo
+2005;Constructor;5;Williams-BMW;Reino Unido;;66;124;Sist. Antiguo
+2005;Constructor;6;BAR-Honda;Reino Unido;;38;76;Sist. Antiguo
+2005;Constructor;7;Red Bull Racing;Reino Unido;;34;68;Sist. Antiguo
+2005;Constructor;8;Sauber-Petronas;Suiza;;20;40;Sist. Antiguo
+2005;Constructor;9;Jordan-Toyota;Irlanda;;12;24;Sist. Antiguo
+2005;Constructor;10;Minardi-Cosworth;Italia;;7;14;Sist. Antiguo
+2006;Piloto;1;Fernando Alonso;Español;Renault;134;267;Sist. Antiguo
+2006;Piloto;2;Michael Schumacher;Alemán;Ferrari;121;242;Sist. Antiguo
+2006;Piloto;3;Felipe Massa;Brasileño;Ferrari;80;162;Sist. Antiguo
+2006;Piloto;4;Giacarlo Fisichella;Italiano;Renault;72;144;Sist. Antiguo
+2006;Piloto;5;Kimi Räikkönen;Finlandés;McLaren-Mercedes;65;130;Sist. Antiguo
+2006;Piloto;6;Jenson Button;Británico;Honda;56;112;Sist. Antiguo
+2006;Piloto;7;Rubens Barrichello;Brasileño;Honda;30;60;Sist. Antiguo
+2006;Piloto;8;Nick Heidfeld;Alemán;BMW Sauber;23;46;Sist. Antiguo
+2006;Piloto;9;David Coulthard;Británico;Red Bull Racing-Ferrari;14;28;Sist. Antiguo
+2006;Piloto;10;Mark Webber;Australiano;Williams-Cosworth;7;14;Sist. Antiguo
+2006;Piloto;11;Robert Kubica;Polaco;BMW Sauber;6;12;Sist. Antiguo
+2006;Piloto;12;Ralf Schumacher;Alemán;Toyota;20;40;Sist. Antiguo
+2006;Piloto;13;Jarno Trulli;Italiano;Toyota;15;30;Sist. Antiguo
+2006;Piloto;14;Pedro de la Rosa;Español;McLaren-Mercedes;19;38;Sist. Antiguo
+2006;Piloto;15;Scott Speed;Estadounidense;Toro Rosso-Cosworth;0;0;Sist. Antiguo
+2006;Piloto;16;Vitaly Petrov;Ruso;Renault;0;0;Sist. Antiguo
+2006;Piloto;17;Vitantonio Liuzzi;Italiano;Toro Rosso-Cosworth;1;2;Sist. Antiguo
+2006;Piloto;18;Christijan Albers;Neerlandés;Spyker MF1 Racing;0;0;Sist. Antiguo
+2006;Piloto;19;Tiago Monteiro;Portugués;Spyker MF1 Racing;0;0;Sist. Antiguo
+2006;Piloto;20;Takuma Sato;Japonés;Super Aguri-Honda;0;0;Sist. Antiguo
+2006;Piloto;21;Sakon Yamamoto;Japonés;Super Aguri-Honda;0;0;Sist. Antiguo
+2006;Piloto;22;Franck Montagny;Francés;Super Aguri-Honda;0;0;Sist. Antiguo
+2006;Piloto;23;Robert Doornbos;Neerlandés;Red Bull Racing-Ferrari;0;0;Sist. Antiguo
+2006;Piloto;24;Alexander Wurz;Austriaco;Williams-Cosworth;0;0;Sist. Antiguo
+2006;Piloto;25;Anthony Davidson;Británico;Honda;0;0;Sist. Antiguo
+2006;Piloto;26;Neel Jani;Suizo;Toro Rosso-Cosworth;0;0;Sist. Antiguo
+2006;Piloto;27;Michael Ammermüller;Alemán;Red Bull Racing-Ferrari;0;0;Sist. Antiguo
+2006;Piloto;28;Adrian Sutil;Alemán;Spyker MF1 Racing;0;0;Sist. Antiguo
+2006;Piloto;29;Markus Winkelhock;Alemán;Spyker MF1 Racing;0;0;Sist. Antiguo
+2006;Piloto;30;Ernesto Viso;Venezolano;Spyker MF1 Racing;0;0;Sist. Antiguo
+2006;Constructor;1;Renault;Francia;;206;411;Sist. Antiguo
+2006;Constructor;2;Ferrari;Italia;;201;404;Sist. Antiguo
+2006;Constructor;3;McLaren-Mercedes;Reino Unido;;110;220;Sist. Antiguo
+2006;Constructor;4;Honda;Reino Unido;;86;172;Sist. Antiguo
+2006;Constructor;5;BMW Sauber;Alemania;;36;72;Sist. Antiguo
+2006;Constructor;6;Toyota;Japón;;35;70;Sist. Antiguo
+2006;Constructor;7;Red Bull Racing-Ferrari;Reino Unido;;16;32;Sist. Antiguo
+2006;Constructor;8;Williams-Cosworth;Reino Unido;;11;22;Sist. Antiguo
+2006;Constructor;9;Scuderia Toro Rosso-Cosworth;Italia;;1;2;Sist. Antiguo
+2006;Constructor;10;Spyker MF1 Racing;Países Bajos;;0;0;Sist. Antiguo
+2006;Constructor;11;Super Aguri-Honda;Japón;;0;0;Sist. Antiguo
+2007;Piloto;1;Kimi Räikkönen;Finlandés;Ferrari;110;248;Sist. Antiguo
+2007;Piloto;2;Lewis Hamilton;Británico;McLaren-Mercedes;109;246;Sist. Antiguo
+2007;Piloto;3;Fernando Alonso;Español;McLaren-Mercedes;109;246;Sist. Antiguo
+2007;Piloto;4;Felipe Massa;Brasileño;Ferrari;94;214;Sist. Antiguo
+2007;Piloto;5;Nick Heidfeld;Alemán;BMW Sauber;61;134;Sist. Antiguo
+2007;Piloto;6;Robert Kubica;Polaco;BMW Sauber;39;88;Sist. Antiguo
+2007;Piloto;7;Heikki Kovalainen;Finlandés;Renault;30;70;Sist. Antiguo
+2007;Piloto;8;Giancarlo Fisichella;Italiano;Renault;21;52;Sist. Antiguo
+2007;Piloto;9;Nico Rosberg;Alemán;Williams-Toyota;20;50;Sist. Antiguo
+2007;Piloto;10;David Coulthard;Británico;Red Bull-Renault;14;36;Sist. Antiguo
+2007;Piloto;11;Alexander Wurz;Austriaco;Williams-Toyota;13;32;Sist. Antiguo
+2007;Piloto;12;Mark Webber;Australiano;Red Bull-Renault;10;26;Sist. Antiguo
+2007;Piloto;13;Jarno Trulli;Italiano;Toyota;8;20;Sist. Antiguo
+2007;Piloto;14;Sebastian Vettel;Alemán;Toro Rosso-Ferrari;6;16;Sist. Antiguo
+2007;Piloto;15;Jenson Button;Británico;Honda;6;16;Sist. Antiguo
+2007;Piloto;16;Ralf Schumacher;Alemán;Toyota;5;14;Sist. Antiguo
+2007;Piloto;17;Takuma Sato;Japonés;Super Aguri-Honda;4;12;Sist. Antiguo
+2007;Piloto;18;Vitantonio Liuzzi;Italiano;Toro Rosso-Ferrari;3;8;Sist. Antiguo
+2007;Piloto;19;Adrian Sutil;Alemán;Spyker-Ferrari;1;4;Sist. Antiguo
+2007;Piloto;20;Anthony Davidson;Británico;Super Aguri-Honda;0;0;Sist. Antiguo
+2007;Piloto;21;Christijan Albers;Neerlandés;Spyker-Ferrari;0;0;Sist. Antiguo
+2007;Piloto;22;Scott Speed;Estadounidense;Toro Rosso-Ferrari;0;0;Sist. Antiguo
+2007;Piloto;23;Sakon Yamamoto;Japonés;Spyker-Ferrari;0;0;Sist. Antiguo
+2007;Piloto;24;Markus Winkelhock;Alemán;Spyker-Ferrari;0;0;Sist. Antiguo
+2007;Piloto;25;Kazuki Nakajima;Japonés;Williams-Toyota;0;0;Sist. Antiguo
+2007;Constructor;1;McLaren;Reino Unido;;218;462;Sist. Antiguo
+2007;Constructor;2;Ferrari;Italia;;204;456;Sist. Antiguo
+2007;Constructor;3;BMW Sauber;Alemania;;101;222;Sist. Antiguo
+2007;Constructor;4;Renault;Francia;;51;122;Sist. Antiguo
+2007;Constructor;5;Williams;Reino Unido;;33;82;Sist. Antiguo
+2007;Constructor;6;Red Bull;Austria;;24;62;Sist. Antiguo
+2007;Constructor;7;Toyota;Japón;;13;34;Sist. Antiguo
+2007;Constructor;8;Toro Rosso;Italia;;8;24;Sist. Antiguo
+2007;Constructor;9;Honda;Reino Unido;;6;16;Sist. Antiguo
+2007;Constructor;10;Super Aguri;Japón;;4;12;Sist. Antiguo
+2007;Constructor;11;Spyker;Países Bajos;;1;4;Sist. Antiguo
+2008;Piloto;1;Lewis Hamilton;Británico;McLaren-Mercedes;98;208;Sist. Antiguo
+2008;Piloto;2;Felipe Massa;Brasileño;Ferrari;97;202;Sist. Antiguo
+2008;Piloto;3;Kimi Räikkönen;Finlandés;Ferrari;75;157;Sist. Antiguo
+2008;Piloto;4;Robert Kubica;Polaco;BMW Sauber;75;156;Sist. Antiguo
+2008;Piloto;5;Fernando Alonso;Español;Renault;61;140;Sist. Antiguo
+2008;Piloto;6;Nick Heidfeld;Alemán;BMW Sauber;60;128;Sist. Antiguo
+2008;Piloto;7;Heikki Kovalainen;Finlandés;McLaren-Mercedes;53;114;Sist. Antiguo
+2008;Piloto;8;Sebastian Vettel;Alemán;Toro Rosso-Ferrari;35;87;Sist. Antiguo
+2008;Piloto;9;Jarno Trulli;Italiano;Toyota;31;74;Sist. Antiguo
+2008;Piloto;10;Mark Webber;Australiano;Red Bull-Renault;21;53;Sist. Antiguo
+2008;Piloto;11;Timo Glock;Alemán;Toyota;25;58;Sist. Antiguo
+2008;Piloto;12;Nico Rosberg;Alemán;Williams-Toyota;17;41;Sist. Antiguo
+2008;Piloto;13;Nelsinho Piquet;Brasileño;Renault;19;40;Sist. Antiguo
+2008;Piloto;14;Rubens Barrichello;Brasileño;Honda;11;28;Sist. Antiguo
+2008;Piloto;15;Kazuki Nakajima;Japonés;Williams-Toyota;9;27;Sist. Antiguo
+2008;Piloto;16;David Coulthard;Británico;Red Bull-Renault;8;24;Sist. Antiguo
+2008;Piloto;17;Sébastien Bourdais;Francés;Toro Rosso-Ferrari;4;14;Sist. Antiguo
+2008;Piloto;18;Jenson Button;Británico;Honda;3;11;Sist. Antiguo
+2008;Piloto;19;Giancarlo Fisichella;Italiano;Force India-Ferrari;0;0;Sist. Antiguo
+2008;Piloto;20;Adrian Sutil;Alemán;Force India-Ferrari;0;0;Sist. Antiguo
+2008;Piloto;21;Takuma Sato;Japonés;Super Aguri-Honda;0;0;Sist. Antiguo
+2008;Piloto;22;Anthony Davidson;Británico;Super Aguri-Honda;0;0;Sist. Antiguo
+2008;Constructor;1;Ferrari;Italia;;172;359;Sist. Antiguo
+2008;Constructor;2;McLaren-Mercedes;Reino Unido;;151;322;Sist. Antiguo
+2008;Constructor;3;BMW Sauber;Alemania;;135;284;Sist. Antiguo
+2008;Constructor;4;Renault;Francia;;80;180;Sist. Antiguo
+2008;Constructor;5;Toyota;Japón;;56;132;Sist. Antiguo
+2008;Constructor;6;Toro Rosso-Ferrari;Italia;;39;101;Sist. Antiguo
+2008;Constructor;7;Red Bull-Renault;Austria;;29;77;Sist. Antiguo
+2008;Constructor;8;Williams-Toyota;Reino Unido;;26;68;Sist. Antiguo
+2008;Constructor;9;Honda;Reino Unido;;14;39;Sist. Antiguo
+2008;Constructor;10;Force India-Ferrari;India;;0;0;Sist. Antiguo
+2008;Constructor;11;Super Aguri-Honda;Japón;;0;0;Sist. Antiguo
+2009;Piloto;1;Jenson Button;Británico;Brawn-Mercedes;95;231;Sist. Antiguo
+2009;Piloto;2;Sebastian Vettel;Alemán;Red Bull-Renault;84;214;Sist. Antiguo
+2009;Piloto;3;Rubens Barrichello;Brasileño;Brawn-Mercedes;77;183;Sist. Antiguo
+2009;Piloto;4;Mark Webber;Australiano;Red Bull-Renault;69.5;173;Sist. Antiguo
+2009;Piloto;5;Lewis Hamilton;Británico;McLaren-Mercedes;49;127;Sist. Antiguo
+2009;Piloto;6;Kimi Räikkönen;Finlandés;Ferrari;48;123;Sist. Antiguo
+2009;Piloto;7;Nico Rosberg;Alemán;Williams-Toyota;34.5;93;Sist. Antiguo
+2009;Piloto;8;Jarno Trulli;Italiano;Toyota;32.5;87;Sist. Antiguo
+2009;Piloto;9;Fernando Alonso;Español;Renault;26;68;Sist. Antiguo
+2009;Piloto;10;Timo Glock;Alemán;Toyota;24;63;Sist. Antiguo
+2009;Piloto;11;Felipe Massa;Brasileño;Ferrari;22;58;Sist. Antiguo
+2009;Piloto;12;Heikki Kovalainen;Finlandés;McLaren-Mercedes;22;58;Sist. Antiguo
+2009;Piloto;13;Nick Heidfeld;Alemán;BMW Sauber;19;50;Sist. Antiguo
+2009;Piloto;14;Robert Kubica;Polaco;BMW Sauber;17;45;Sist. Antiguo
+2009;Piloto;15;Giancarlo Fisichella;Italiano;Force India-Mercedes/Ferrari;8;22;Sist. Antiguo
+2009;Piloto;16;Sebastien Buemi;Suizo;Toro Rosso-Ferrari;6;16;Sist. Antiguo
+2009;Piloto;17;Adrian Sutil;Alemán;Force India-Mercedes;5;14;Sist. Antiguo
+2009;Piloto;18;Kazuki Nakajima;Japonés;Williams-Toyota;0;0;Sist. Antiguo
+2009;Piloto;19;Nelsinho Piquet;Brasileño;Renault;0;0;Sist. Antiguo
+2009;Piloto;20;Romain Grosjean;Francés;Renault;0;0;Sist. Antiguo
+2009;Piloto;21;Luca Badoer;Italiano;Ferrari;0;0;Sist. Antiguo
+2009;Piloto;22;Vitantonio Liuzzi;Italiano;Force India-Mercedes;0;0;Sist. Antiguo
+2009;Piloto;23;Jaime Alguersuari;Español;Toro Rosso-Ferrari;0;0;Sist. Antiguo
+2009;Piloto;24;Sébastien Bourdais;Francés;Toro Rosso-Ferrari;2;5;Sist. Antiguo
+2009;Constructor;1;Brawn-Mercedes;Reino Unido;;172;414;Sist. Antiguo
+2009;Constructor;2;Red Bull-Renault;Austria;;153.5;387;Sist. Antiguo
+2009;Constructor;3;McLaren-Mercedes;Reino Unido;;71;185;Sist. Antiguo
+2009;Constructor;4;Ferrari;Italia;;70;181;Sist. Antiguo
+2009;Constructor;5;Toyota;Japón;;59.5;150;Sist. Antiguo
+2009;Constructor;6;BMW Sauber;Alemania;;36;95;Sist. Antiguo
+2009;Constructor;7;Williams-Toyota;Reino Unido;;34.5;93;Sist. Antiguo
+2009;Constructor;8;Renault;Francia;;26;68;Sist. Antiguo
+2009;Constructor;9;Force India-Mercedes;India;;13;36;Sist. Antiguo
+2009;Constructor;10;Toro Rosso-Ferrari;Italia;;8;21;Sist. Antiguo
+2010;Piloto;1;Sebastian Vettel;Alemán;Red Bull-Renault;256;256;Sist. Nuevo
+2010;Piloto;2;Fernando Alonso;Español;Ferrari;252;252;Sist. Nuevo
+2010;Piloto;3;Mark Webber;Australiano;Red Bull-Renault;242;242;Sist. Nuevo
+2010;Piloto;4;Lewis Hamilton;Británico;McLaren-Mercedes;240;240;Sist. Nuevo
+2010;Piloto;5;Jenson Button;Británico;McLaren-Mercedes;214;214;Sist. Nuevo
+2010;Piloto;6;Felipe Massa;Brasileño;Ferrari;144;144;Sist. Nuevo
+2010;Piloto;7;Nico Rosberg;Alemán;Mercedes GP;142;142;Sist. Nuevo
+2010;Piloto;8;Robert Kubica;Polaco;Renault;136;136;Sist. Nuevo
+2010;Piloto;9;Michael Schumacher;Alemán;Mercedes GP;72;72;Sist. Nuevo
+2010;Piloto;10;Rubens Barrichello;Brasileño;Williams-Cosworth;47;47;Sist. Nuevo
+2010;Piloto;11;Adrian Sutil;Alemán;Force India-Mercedes;47;47;Sist. Nuevo
+2010;Piloto;12;Kamui Kobayashi;Japonés;Sauber-Ferrari;32;32;Sist. Nuevo
+2010;Piloto;13;Vitantonio Liuzzi;Italiano;Force India-Mercedes;21;21;Sist. Nuevo
+2010;Piloto;14;Nico Hülkenberg;Alemán;Williams-Cosworth;22;22;Sist. Nuevo
+2010;Piloto;15;Vitaly Petrov;Ruso;Renault;27;27;Sist. Nuevo
+2010;Piloto;16;Jaime Alguersuari;Español;Toro Rosso-Ferrari;5;5;Sist. Nuevo
+2010;Piloto;17;Pedro de la Rosa;Español;Sauber-Ferrari;6;6;Sist. Nuevo
+2010;Piloto;18;Sébastien Buemi;Suizo;Toro Rosso-Ferrari;8;8;Sist. Nuevo
+2010;Piloto;19;Nick Heidfeld;Alemán;Sauber-Ferrari;6;6;Sist. Nuevo
+2010;Piloto;20;Heikki Kovalainen;Finlandés;Lotus-Cosworth;0;0;Sist. Nuevo
+2010;Piloto;21;Jarno Trulli;Italiano;Lotus-Cosworth;0;0;Sist. Nuevo
+2010;Piloto;22;Lucas di Grassi;Brasileño;Virgin-Cosworth;0;0;Sist. Nuevo
+2010;Piloto;23;Timo Glock;Alemán;Virgin-Cosworth;0;0;Sist. Nuevo
+2010;Piloto;24;Bruno Senna;Brasileño;HRT-Cosworth;0;0;Sist. Nuevo
+2010;Piloto;25;Karun Chandhok;Indio;HRT-Cosworth;0;0;Sist. Nuevo
+2010;Piloto;26;Sakon Yamamoto;Japonés;HRT-Cosworth;0;0;Sist. Nuevo
+2010;Piloto;27;Christian Klien;Austriaco;HRT-Cosworth;0;0;Sist. Nuevo
+2010;Constructor;1;Red Bull-Renault;Austria;;498;498;Sist. Nuevo
+2010;Constructor;2;McLaren-Mercedes;Reino Unido;;454;454;Sist. Nuevo
+2010;Constructor;3;Ferrari;Italia;;396;396;Sist. Nuevo
+2010;Constructor;4;Mercedes GP;Alemania;;214;214;Sist. Nuevo
+2010;Constructor;5;Renault;Francia;;163;163;Sist. Nuevo
+2010;Constructor;6;Force India-Mercedes;India;;68;68;Sist. Nuevo
+2010;Constructor;7;Williams-Cosworth;Reino Unido;;69;69;Sist. Nuevo
+2010;Constructor;8;Sauber-Ferrari;Suiza;;44;44;Sist. Nuevo
+2010;Constructor;9;Toro Rosso-Ferrari;Italia;;13;13;Sist. Nuevo
+2010;Constructor;10;Lotus-Cosworth;Malasia;;0;0;Sist. Nuevo
+2010;Constructor;11;Virgin-Cosworth;Rusia;;0;0;Sist. Nuevo
+2010;Constructor;12;HRT-Cosworth;España;;0;0;Sist. Nuevo
+2011;Piloto;1;Sebastian Vettel;Alemán;Red Bull-Renault;392;392;Sist. Nuevo
+2011;Piloto;2;Jenson Button;Británico;McLaren-Mercedes;270;270;Sist. Nuevo
+2011;Piloto;3;Mark Webber;Australiano;Red Bull-Renault;258;258;Sist. Nuevo
+2011;Piloto;4;Fernando Alonso;Español;Ferrari;257;257;Sist. Nuevo
+2011;Piloto;5;Lewis Hamilton;Británico;McLaren-Mercedes;227;227;Sist. Nuevo
+2011;Piloto;6;Felipe Massa;Brasileño;Ferrari;118;118;Sist. Nuevo
+2011;Piloto;7;Nico Rosberg;Alemán;Mercedes GP;89;89;Sist. Nuevo
+2011;Piloto;8;Michael Schumacher;Alemán;Mercedes GP;76;76;Sist. Nuevo
+2011;Piloto;9;Adrian Sutil;Alemán;Force India-Mercedes;42;42;Sist. Nuevo
+2011;Piloto;10;Nick Heidfeld;Alemán;Renault;34;34;Sist. Nuevo
+2011;Piloto;11;Paul di Resta;Británico;Force India-Mercedes;27;27;Sist. Nuevo
+2011;Piloto;12;Kamui Kobayashi;Japonés;Sauber-Ferrari;30;30;Sist. Nuevo
+2011;Piloto;13;Jaime Alguersuari;Español;Toro Rosso-Ferrari;26;26;Sist. Nuevo
+2011;Piloto;14;Sébastien Buemi;Suizo;Toro Rosso-Ferrari;15;15;Sist. Nuevo
+2011;Piloto;15;Sergio Pérez;Brasileño;Sauber-Ferrari;14;14;Sist. Nuevo
+2011;Piloto;16;Rubens Barrichello;Brasileño;Williams-Cosworth;4;4;Sist. Nuevo
+2011;Piloto;17;Bruno Senna;Brasileño;Renault;2;2;Sist. Nuevo
+2011;Piloto;18;Pastor Maldonado;Venezolano;Williams-Cosworth;1;1;Sist. Nuevo
+2011;Piloto;19;Jarno Trulli;Italiano;Lotus-Renault;0;0;Sist. Nuevo
+2011;Piloto;20;Heikki Kovalainen;Finlandés;Lotus-Renault;0;0;Sist. Nuevo
+2011;Piloto;21;Vitaly Petrov;Ruso;Renault;37;37;Sist. Nuevo
+2011;Piloto;22;Jérôme d'Ambrosio;Belga;Virgin-Cosworth;0;0;Sist. Nuevo
+2011;Piloto;23;Timo Glock;Alemán;Virgin-Cosworth;0;0;Sist. Nuevo
+2011;Piloto;24;Vitantonio Liuzzi;Italiano;HRT-Cosworth;0;0;Sist. Nuevo
+2011;Piloto;25;Daniel Ricciardo;Australiano;HRT-Cosworth;0;0;Sist. Nuevo
+2011;Piloto;26;Narain Karthikeyan;Indio;HRT-Cosworth;0;0;Sist. Nuevo
+2011;Constructor;1;Red Bull-Renault;Austria;;650;650;Sist. Nuevo
+2011;Constructor;2;McLaren-Mercedes;Reino Unido;;497;497;Sist. Nuevo
+2011;Constructor;3;Ferrari;Italia;;375;375;Sist. Nuevo
+2011;Constructor;4;Mercedes GP;Alemania;;165;165;Sist. Nuevo
+2011;Constructor;5;Renault;Francia;;73;73;Sist. Nuevo
+2011;Constructor;6;Force India-Mercedes;India;;69;69;Sist. Nuevo
+2011;Constructor;7;Sauber-Ferrari;Suiza;;44;44;Sist. Nuevo
+2011;Constructor;8;Toro Rosso-Ferrari;Italia;;41;41;Sist. Nuevo
+2011;Constructor;9;Williams-Cosworth;Reino Unido;;5;5;Sist. Nuevo
+2011;Constructor;10;Lotus-Renault;Malasia;;0;0;Sist. Nuevo
+2011;Constructor;11;Virgin-Cosworth;Rusia;;0;0;Sist. Nuevo
+2011;Constructor;12;HRT-Cosworth;España;;0;0;Sist. Nuevo
+2012;Piloto;1;Sebastian Vettel;Alemán;Red Bull-Renault;281;281;Sist. Nuevo
+2012;Piloto;2;Fernando Alonso;Español;Ferrari;278;278;Sist. Nuevo
+2012;Piloto;3;Kimi Räikkönen;Finlandés;Lotus-Renault;207;207;Sist. Nuevo
+2012;Piloto;4;Lewis Hamilton;Británico;McLaren-Mercedes;190;190;Sist. Nuevo
+2012;Piloto;5;Jenson Button;Británico;McLaren-Mercedes;188;188;Sist. Nuevo
+2012;Piloto;6;Mark Webber;Australiano;Red Bull-Renault;179;179;Sist. Nuevo
+2012;Piloto;7;Felipe Massa;Brasileño;Ferrari;122;122;Sist. Nuevo
+2012;Piloto;8;Romain Grosjean;Francés;Lotus-Renault;96;96;Sist. Nuevo
+2012;Piloto;9;Nico Rosberg;Alemán;Mercedes;93;93;Sist. Nuevo
+2012;Piloto;10;Sergio Pérez;Mexicano;Sauber-Ferrari;66;66;Sist. Nuevo
+2012;Piloto;11;Nico Hülkenberg;Alemán;Force India-Mercedes;63;63;Sist. Nuevo
+2012;Piloto;12;Kamui Kobayashi;Japonés;Sauber-Ferrari;60;60;Sist. Nuevo
+2012;Piloto;13;Michael Schumacher;Alemán;Mercedes;49;49;Sist. Nuevo
+2012;Piloto;14;Paul di Resta;Británico;Force India-Mercedes;46;46;Sist. Nuevo
+2012;Piloto;15;Pastor Maldonado;Venezolano;Williams-Renault;45;45;Sist. Nuevo
+2012;Piloto;16;Bruno Senna;Brasileño;Williams-Renault;31;31;Sist. Nuevo
+2012;Piloto;17;Jean-Éric Vergne;Francés;Toro Rosso-Ferrari;16;16;Sist. Nuevo
+2012;Piloto;18;Daniel Ricciardo;Australiano;Toro Rosso-Ferrari;10;10;Sist. Nuevo
+2012;Piloto;19;Vitaly Petrov;Ruso;Caterham-Renault;0;0;Sist. Nuevo
+2012;Piloto;20;Heikki Kovalainen;Finlandés;Caterham-Renault;0;0;Sist. Nuevo
+2012;Piloto;21;Timo Glock;Alemán;Marussia-Cosworth;0;0;Sist. Nuevo
+2012;Piloto;22;Charles Pic;Francés;Marussia-Cosworth;0;0;Sist. Nuevo
+2012;Piloto;23;Pedro de la Rosa;Español;HRT-Cosworth;0;0;Sist. Nuevo
+2012;Piloto;24;Narain Karthikeyan;Indio;HRT-Cosworth;0;0;Sist. Nuevo
+2012;Constructor;1;Red Bull-Renault;Austria;;460;460;Sist. Nuevo
+2012;Constructor;2;Ferrari;Italia;;400;400;Sist. Nuevo
+2012;Constructor;3;McLaren-Mercedes;Reino Unido;;378;378;Sist. Nuevo
+2012;Constructor;4;Lotus-Renault;Reino Unido;;303;303;Sist. Nuevo
+2012;Constructor;5;Mercedes;Alemania;;142;142;Sist. Nuevo
+2012;Constructor;6;Sauber-Ferrari;Suiza;;126;126;Sist. Nuevo
+2012;Constructor;7;Force India-Mercedes;India;;109;109;Sist. Nuevo
+2012;Constructor;8;Williams-Renault;Reino Unido;;76;76;Sist. Nuevo
+2012;Constructor;9;Toro Rosso-Ferrari;Italia;;26;26;Sist. Nuevo
+2012;Constructor;10;Caterham-Renault;Malasia;;0;0;Sist. Nuevo
+2012;Constructor;11;Marussia-Cosworth;Rusia;;0;0;Sist. Nuevo
+2012;Constructor;12;HRT-Cosworth;España;;0;0;Sist. Nuevo
+2013;Piloto;1;Sebastian Vettel;Alemán;Red Bull-Renault;397;397;Sist. Nuevo
+2013;Piloto;2;Fernando Alonso;Español;Ferrari;242;242;Sist. Nuevo
+2013;Piloto;3;Mark Webber;Australiano;Red Bull-Renault;199;199;Sist. Nuevo
+2013;Piloto;4;Lewis Hamilton;Británico;Mercedes;189;189;Sist. Nuevo
+2013;Piloto;5;Kimi Räikkönen;Finlandés;Lotus-Renault;183;183;Sist. Nuevo
+2013;Piloto;6;Nico Rosberg;Alemán;Mercedes;171;171;Sist. Nuevo
+2013;Piloto;7;Romain Grosjean;Francés;Lotus-Renault;132;132;Sist. Nuevo
+2013;Piloto;8;Felipe Massa;Brasileño;Ferrari;112;112;Sist. Nuevo
+2013;Piloto;9;Jenson Button;Británico;McLaren-Mercedes;73;73;Sist. Nuevo
+2013;Piloto;10;Nico Hülkenberg;Alemán;Sauber-Ferrari;51;51;Sist. Nuevo
+2013;Piloto;11;Sergio Pérez;Mexicano;McLaren-Mercedes;49;49;Sist. Nuevo
+2013;Piloto;12;Paul di Resta;Británico;Force India-Mercedes;48;48;Sist. Nuevo
+2013;Piloto;13;Adrian Sutil;Alemán;Force India-Mercedes;29;29;Sist. Nuevo
+2013;Piloto;14;Daniel Ricciardo;Australiano;Toro Rosso-Ferrari;20;20;Sist. Nuevo
+2013;Piloto;15;Jean-Éric Vergne;Francés;Toro Rosso-Ferrari;13;13;Sist. Nuevo
+2013;Piloto;16;Esteban Gutiérrez;Mexicano;Sauber-Ferrari;6;6;Sist. Nuevo
+2013;Piloto;17;Valtteri Bottas;Finlandés;Williams-Renault;4;4;Sist. Nuevo
+2013;Piloto;18;Pastor Maldonado;Venezolano;Williams-Renault;1;1;Sist. Nuevo
+2013;Piloto;19;Jules Bianchi;Francés;Marussia-Cosworth;0;0;Sist. Nuevo
+2013;Piloto;20;Charles Pic;Francés;Caterham-Renault;0;0;Sist. Nuevo
+2013;Piloto;21;Giedo van der Garde;Neerlandés;Caterham-Renault;0;0;Sist. Nuevo
+2013;Piloto;22;Max Chilton;Británico;Marussia-Cosworth;0;0;Sist. Nuevo
+2013;Constructor;1;Red Bull-Renault;Austria;;596;596;Sist. Nuevo
+2013;Constructor;2;Mercedes;Alemania;;360;360;Sist. Nuevo
+2013;Constructor;3;Ferrari;Italia;;354;354;Sist. Nuevo
+2013;Constructor;4;Lotus-Renault;Reino Unido;;315;315;Sist. Nuevo
+2013;Constructor;5;McLaren-Mercedes;Reino Unido;;122;122;Sist. Nuevo
+2013;Constructor;6;Force India-Mercedes;India;;77;77;Sist. Nuevo
+2013;Constructor;7;Sauber-Ferrari;Suiza;;57;57;Sist. Nuevo
+2013;Constructor;8;Toro Rosso-Ferrari;Italia;;33;33;Sist. Nuevo
+2013;Constructor;9;Williams-Renault;Reino Unido;;5;5;Sist. Nuevo
+2013;Constructor;10;Marussia-Cosworth;Rusia;;0;0;Sist. Nuevo
+2013;Constructor;11;Caterham-Renault;Malasia;;0;0;Sist. Nuevo
+2014;Piloto;1;Lewis Hamilton;Británico;Mercedes;384;384;Sist. Nuevo
+2014;Piloto;2;Nico Rosberg;Alemán;Mercedes;317;317;Sist. Nuevo
+2014;Piloto;3;Daniel Ricciardo;Australiano;Red Bull-Renault;238;238;Sist. Nuevo
+2014;Piloto;4;Valtteri Bottas;Finlandés;Williams-Mercedes;186;186;Sist. Nuevo
+2014;Piloto;5;Sebastian Vettel;Alemán;Red Bull-Renault;167;167;Sist. Nuevo
+2014;Piloto;6;Fernando Alonso;Español;Ferrari;161;161;Sist. Nuevo
+2014;Piloto;7;Felipe Massa;Brasileño;Williams-Mercedes;134;134;Sist. Nuevo
+2014;Piloto;8;Jenson Button;Británico;McLaren-Mercedes;126;126;Sist. Nuevo
+2014;Piloto;9;Nico Hülkenberg;Alemán;Force India-Mercedes;96;96;Sist. Nuevo
+2014;Piloto;10;Sergio Pérez;Mexicano;Force India-Mercedes;59;59;Sist. Nuevo
+2014;Piloto;11;Kevin Magnussen;Dinamarqués;McLaren-Mercedes;55;55;Sist. Nuevo
+2014;Piloto;12;Kimi Räikkönen;Finlandés;Ferrari;55;55;Sist. Nuevo
+2014;Piloto;13;Jean-Éric Vergne;Francés;Toro Rosso-Renault;22;22;Sist. Nuevo
+2014;Piloto;14;Romain Grosjean;Francés;Lotus-Renault;8;8;Sist. Nuevo
+2014;Piloto;15;Daniil Kvyat;Ruso;Toro Rosso-Renault;8;8;Sist. Nuevo
+2014;Piloto;16;Pastor Maldonado;Venezolano;Lotus-Renault;2;2;Sist. Nuevo
+2014;Piloto;17;Jules Bianchi;Francés;Marussia-Ferrari;2;2;Sist. Nuevo
+2014;Piloto;18;Adrian Sutil;Alemán;Sauber-Ferrari;0;0;Sist. Nuevo
+2014;Piloto;19;Marcus Ericsson;Sueco;Caterham-Renault;0;0;Sist. Nuevo
+2014;Piloto;20;Esteban Gutiérrez;Mexicano;Sauber-Ferrari;0;0;Sist. Nuevo
+2014;Piloto;21;Max Chilton;Británico;Marussia-Ferrari;0;0;Sist. Nuevo
+2014;Piloto;22;Kamui Kobayashi;Japonés;Caterham-Renault;0;0;Sist. Nuevo
+2014;Piloto;23;Will Stevens;Británico;Caterham-Renault;0;0;Sist. Nuevo
+2014;Constructor;1;Mercedes;Alemania;;701;701;Sist. Nuevo
+2014;Constructor;2;Red Bull-Renault;Austria;;405;405;Sist. Nuevo
+2014;Constructor;3;Williams-Mercedes;Reino Unido;;320;320;Sist. Nuevo
+2014;Constructor;4;Ferrari;Italia;;216;216;Sist. Nuevo
+2014;Constructor;5;McLaren-Mercedes;Reino Unido;;181;181;Sist. Nuevo
+2014;Constructor;6;Force India-Mercedes;India;;155;155;Sist. Nuevo
+2014;Constructor;7;Toro Rosso-Renault;Italia;;30;30;Sist. Nuevo
+2014;Constructor;8;Lotus-Renault;Reino Unido;;10;10;Sist. Nuevo
+2014;Constructor;9;Marussia-Ferrari;Rusia;;2;2;Sist. Nuevo
+2014;Constructor;10;Sauber-Ferrari;Suiza;;0;0;Sist. Nuevo
+2014;Constructor;11;Caterham-Renault;Malasia;;0;0;Sist. Nuevo
+2015;Piloto;1;Lewis Hamilton;Británico;Mercedes;381;381;Sist. Nuevo
+2015;Piloto;2;Nico Rosberg;Alemán;Mercedes;322;322;Sist. Nuevo
+2015;Piloto;3;Sebastian Vettel;Alemán;Ferrari;278;278;Sist. Nuevo
+2015;Piloto;4;Kimi Räikkönen;Finlandés;Ferrari;150;150;Sist. Nuevo
+2015;Piloto;5;Valtteri Bottas;Finlandés;Williams-Mercedes;136;136;Sist. Nuevo
+2015;Piloto;6;Felipe Massa;Brasileño;Williams-Mercedes;121;121;Sist. Nuevo
+2015;Piloto;7;Daniil Kvyat;Ruso;Red Bull-Renault;95;95;Sist. Nuevo
+2015;Piloto;8;Daniel Ricciardo;Australiano;Red Bull-Renault;92;92;Sist. Nuevo
+2015;Piloto;9;Sergio Pérez;Mexicano;Force India-Mercedes;78;78;Sist. Nuevo
+2015;Piloto;10;Nico Hülkenberg;Alemán;Force India-Mercedes;58;58;Sist. Nuevo
+2015;Piloto;11;Romain Grosjean;Francés;Lotus-Mercedes;51;51;Sist. Nuevo
+2015;Piloto;12;Max Verstappen;Neerlandés;Toro Rosso-Renault;49;49;Sist. Nuevo
+2015;Piloto;13;Pastor Maldonado;Venezolano;Lotus-Mercedes;27;27;Sist. Nuevo
+2015;Piloto;14;Felipe Nasr;Brasileño;Sauber-Ferrari;27;27;Sist. Nuevo
+2015;Piloto;15;Carlos Sainz Jr.;Español;Toro Rosso-Renault;18;18;Sist. Nuevo
+2015;Piloto;16;Jenson Button;Británico;McLaren-Honda;16;16;Sist. Nuevo
+2015;Piloto;17;Marcus Ericsson;Sueco;Sauber-Ferrari;9;9;Sist. Nuevo
+2015;Piloto;18;Fernando Alonso;Español;McLaren-Honda;11;11;Sist. Nuevo
+2015;Piloto;19;Roberto Merhi;Español;Manor-Ferrari;0;0;Sist. Nuevo
+2015;Piloto;20;Will Stevens;Británico;Manor-Ferrari;0;0;Sist. Nuevo
+2015;Piloto;21;Alexander Rossi;Estadounidense;Manor-Ferrari;0;0;Sist. Nuevo
+2015;Constructor;1;Mercedes;Alemania;;703;703;Sist. Nuevo
+2015;Constructor;2;Ferrari;Italia;;428;428;Sist. Nuevo
+2015;Constructor;3;Williams-Mercedes;Reino Unido;;257;257;Sist. Nuevo
+2015;Constructor;4;Red Bull-Renault;Austria;;187;187;Sist. Nuevo
+2015;Constructor;5;Force India-Mercedes;India;;136;136;Sist. Nuevo
+2015;Constructor;6;Lotus-Mercedes;Reino Unido;;78;78;Sist. Nuevo
+2015;Constructor;7;Toro Rosso-Renault;Italia;;67;67;Sist. Nuevo
+2015;Constructor;8;Sauber-Ferrari;Suiza;;36;36;Sist. Nuevo
+2015;Constructor;9;McLaren-Honda;Reino Unido;;27;27;Sist. Nuevo
+2015;Constructor;10;Manor-Ferrari;Reino Unido;;0;0;Sist. Nuevo
+2016;Piloto;1;Nico Rosberg;Alemán;Mercedes;385;385;Sist. Nuevo
+2016;Piloto;2;Lewis Hamilton;Británico;Mercedes;380;380;Sist. Nuevo
+2016;Piloto;3;Daniel Ricciardo;Australiano;Red Bull Racing-TAG Heuer;256;256;Sist. Nuevo
+2016;Piloto;4;Sebastian Vettel;Alemán;Ferrari;212;212;Sist. Nuevo
+2016;Piloto;5;Max Verstappen;Neerlandés;Red Bull Racing-TAG Heuer;204;204;Sist. Nuevo
+2016;Piloto;6;Kimi Räikkönen;Finlandés;Ferrari;186;186;Sist. Nuevo
+2016;Piloto;7;Sergio Pérez;Mexicano;Force India-Mercedes;101;101;Sist. Nuevo
+2016;Piloto;8;Valtteri Bottas;Finlandés;Williams-Mercedes;85;85;Sist. Nuevo
+2016;Piloto;9;Nico Hülkenberg;Alemán;Force India-Mercedes;72;72;Sist. Nuevo
+2016;Piloto;10;Fernando Alonso;Español;McLaren-Honda;54;54;Sist. Nuevo
+2016;Piloto;11;Felipe Massa;Brasileño;Williams-Mercedes;53;53;Sist. Nuevo
+2016;Piloto;12;Carlos Sainz Jr.;Español;Toro Rosso-Ferrari;46;46;Sist. Nuevo
+2016;Piloto;13;Romain Grosjean;Francés;Haas-Ferrari;29;29;Sist. Nuevo
+2016;Piloto;14;Daniil Kvyat;Ruso;Toro Rosso-Ferrari;25;25;Sist. Nuevo
+2016;Piloto;15;Jenson Button;Británico;McLaren-Honda;21;21;Sist. Nuevo
+2016;Piloto;16;Kevin Magnussen;Dinamarqués;Renault;7;7;Sist. Nuevo
+2016;Piloto;17;Felipe Nasr;Brasileño;Sauber-Ferrari;2;2;Sist. Nuevo
+2016;Piloto;18;Jolyon Palmer;Británico;Renault;1;1;Sist. Nuevo
+2016;Piloto;19;Stoffel Vandoorne;Belga;McLaren-Honda;1;1;Sist. Nuevo
+2016;Piloto;20;Esteban Gutiérrez;Mexicano;Haas-Ferrari;0;0;Sist. Nuevo
+2016;Piloto;21;Marcus Ericsson;Sueco;Sauber-Ferrari;0;0;Sist. Nuevo
+2016;Piloto;22;Esteban Ocon;Francés;Manor-Mercedes;0;0;Sist. Nuevo
+2016;Piloto;23;Pascal Wehrlein;Alemán;Manor-Mercedes;1;1;Sist. Nuevo
+2016;Piloto;24;Fernando Alonso;Español;McLaren-Honda;54;54;Sist. Nuevo
+2016;Constructor;1;Mercedes;Alemania;;765;765;Sist. Nuevo
+2016;Constructor;2;Red Bull Racing-TAG Heuer;Austria;;468;468;Sist. Nuevo
+2016;Constructor;3;Ferrari;Italia;;398;398;Sist. Nuevo
+2016;Constructor;4;Force India-Mercedes;India;;173;173;Sist. Nuevo
+2016;Constructor;5;Williams-Mercedes;Reino Unido;;138;138;Sist. Nuevo
+2016;Constructor;6;McLaren-Honda;Reino Unido;;76;76;Sist. Nuevo
+2016;Constructor;7;Toro Rosso-Ferrari;Italia;;63;63;Sist. Nuevo
+2016;Constructor;8;Haas-Ferrari;Estados Unidos;;29;29;Sist. Nuevo
+2016;Constructor;9;Renault;Francia;;8;8;Sist. Nuevo
+2016;Constructor;10;Sauber-Ferrari;Suiza;;2;2;Sist. Nuevo
+2016;Constructor;11;Manor-Mercedes;Reino Unido;;1;1;Sist. Nuevo
+2017;Piloto;1;Lewis Hamilton;Británico;Mercedes;363;363;Sist. Nuevo
+2017;Piloto;2;Sebastian Vettel;Alemán;Ferrari;317;317;Sist. Nuevo
+2017;Piloto;3;Valtteri Bottas;Finlandés;Mercedes;305;305;Sist. Nuevo
+2017;Piloto;4;Kimi Räikkönen;Finlandés;Ferrari;205;205;Sist. Nuevo
+2017;Piloto;5;Daniel Ricciardo;Australiano;Red Bull Racing-TAG Heuer;200;200;Sist. Nuevo
+2017;Piloto;6;Max Verstappen;Neerlandés;Red Bull Racing-TAG Heuer;168;168;Sist. Nuevo
+2017;Piloto;7;Sergio Pérez;Mexicano;Force India-Mercedes;100;100;Sist. Nuevo
+2017;Piloto;8;Esteban Ocon;Francés;Force India-Mercedes;87;87;Sist. Nuevo
+2017;Piloto;9;Carlos Sainz Jr.;Español;Toro Rosso/Renault;54;54;Sist. Nuevo
+2017;Piloto;10;Nico Hülkenberg;Alemán;Renault;43;43;Sist. Nuevo
+2017;Piloto;11;Felipe Massa;Brasileño;Williams-Mercedes;43;43;Sist. Nuevo
+2017;Piloto;12;Lance Stroll;Canadiense;Williams-Mercedes;40;40;Sist. Nuevo
+2017;Piloto;13;Romain Grosjean;Francés;Haas-Ferrari;28;28;Sist. Nuevo
+2017;Piloto;14;Kevin Magnussen;Dinamarqués;Haas-Ferrari;19;19;Sist. Nuevo
+2017;Piloto;15;Fernando Alonso;Español;McLaren-Honda;17;17;Sist. Nuevo
+2017;Piloto;16;Stoffel Vandoorne;Belga;McLaren-Honda;13;13;Sist. Nuevo
+2017;Piloto;17;Jolyon Palmer;Británico;Renault;8;8;Sist. Nuevo
+2017;Piloto;18;Pascal Wehrlein;Alemán;Sauber-Ferrari;5;5;Sist. Nuevo
+2017;Piloto;19;Daniil Kvyat;Ruso;Toro Rosso;5;5;Sist. Nuevo
+2017;Piloto;20;Marcus Ericsson;Sueco;Sauber-Ferrari;0;0;Sist. Nuevo
+2017;Piloto;21;Pierre Gasly;Francés;Toro Rosso;0;0;Sist. Nuevo
+2017;Piloto;22;Brendon Hartley;Neozelandés;Toro Rosso;0;0;Sist. Nuevo
+2017;Piloto;23;Antonio Giovinazzi;Italiano;Sauber-Ferrari;0;0;Sist. Nuevo
+2017;Piloto;24;Jenson Button;Británico;McLaren-Honda;0;0;Sist. Nuevo
+2017;Piloto;25;Paul di Resta;Británico;Williams-Mercedes;0;0;Sist. Nuevo
+2017;Constructor;1;Mercedes;Alemania;;668;668;Sist. Nuevo
+2017;Constructor;2;Ferrari;Italia;;522;522;Sist. Nuevo
+2017;Constructor;3;Red Bull Racing-TAG Heuer;Austria;;368;368;Sist. Nuevo
+2017;Constructor;4;Force India-Mercedes;India;;187;187;Sist. Nuevo
+2017;Constructor;5;Williams-Mercedes;Reino Unido;;83;83;Sist. Nuevo
+2017;Constructor;6;Renault;Francia;;57;57;Sist. Nuevo
+2017;Constructor;7;Toro Rosso;Italia;;53;53;Sist. Nuevo
+2017;Constructor;8;Haas-Ferrari;Estados Unidos;;47;47;Sist. Nuevo
+2017;Constructor;9;McLaren-Honda;Reino Unido;;30;30;Sist. Nuevo
+2017;Constructor;10;Sauber-Ferrari;Suiza;;5;5;Sist. Nuevo
+2018;Piloto;1;Lewis Hamilton;Británico;Mercedes;408;408;Sist. Nuevo
+2018;Piloto;2;Sebastian Vettel;Alemán;Ferrari;320;320;Sist. Nuevo
+2018;Piloto;3;Kimi Räikkönen;Finlandés;Ferrari;251;251;Sist. Nuevo
+2018;Piloto;4;Max Verstappen;Neerlandés;Red Bull Racing-TAG Heuer;249;249;Sist. Nuevo
+2018;Piloto;5;Valtteri Bottas;Finlandés;Mercedes;247;247;Sist. Nuevo
+2018;Piloto;6;Daniel Ricciardo;Australiano;Red Bull Racing-TAG Heuer;170;170;Sist. Nuevo
+2018;Piloto;7;Nico Hülkenberg;Alemán;Renault;69;69;Sist. Nuevo
+2018;Piloto;8;Sergio Pérez;Mexicano;Force India-Mercedes;62;62;Sist. Nuevo
+2018;Piloto;9;Kevin Magnussen;Dinamarqués;Haas-Ferrari;56;56;Sist. Nuevo
+2018;Piloto;10;Carlos Sainz Jr.;Español;Renault;53;53;Sist. Nuevo
+2018;Piloto;11;Fernando Alonso;Español;McLaren-Renault;50;50;Sist. Nuevo
+2018;Piloto;12;Esteban Ocon;Francés;Force India-Mercedes;49;49;Sist. Nuevo
+2018;Piloto;13;Charles Leclerc;Monegasco;Sauber-Ferrari;39;39;Sist. Nuevo
+2018;Piloto;14;Romain Grosjean;Francés;Haas-Ferrari;37;37;Sist. Nuevo
+2018;Piloto;15;Pierre Gasly;Francés;Toro Rosso-Honda;29;29;Sist. Nuevo
+2018;Piloto;16;Stoffel Vandoorne;Belga;McLaren-Renault;12;12;Sist. Nuevo
+2018;Piloto;17;Marcus Ericsson;Sueco;Sauber-Ferrari;9;9;Sist. Nuevo
+2018;Piloto;18;Lance Stroll;Canadiense;Williams-Mercedes;6;6;Sist. Nuevo
+2018;Piloto;19;Brendon Hartley;Neozelandés;Toro Rosso-Honda;4;4;Sist. Nuevo
+2018;Piloto;20;Sergey Sirotkin;Ruso;Williams-Mercedes;1;1;Sist. Nuevo
+2018;Constructor;1;Mercedes;Alemania;;655;655;Sist. Nuevo
+2018;Constructor;2;Ferrari;Italia;;571;571;Sist. Nuevo
+2018;Constructor;3;Red Bull Racing-TAG Heuer;Austria;;419;419;Sist. Nuevo
+2018;Constructor;4;Renault;Francia;;122;122;Sist. Nuevo
+2018;Constructor;5;Haas-Ferrari;Estados Unidos;;93;93;Sist. Nuevo
+2018;Constructor;6;McLaren-Renault;Reino Unido;;62;62;Sist. Nuevo
+2018;Constructor;7;Force India-Mercedes;India;;52;52;Sist. Nuevo
+2018;Constructor;8;Sauber-Ferrari;Suiza;;48;48;Sist. Nuevo
+2018;Constructor;9;Toro Rosso-Honda;Italia;;33;33;Sist. Nuevo
+2018;Constructor;10;Williams-Mercedes;Reino Unido;;7;7;Sist. Nuevo
+2019;Piloto;1;Lewis Hamilton;Británico;Mercedes;413;413;Sist. Nuevo
+2019;Piloto;2;Valtteri Bottas;Finlandés;Mercedes;326;326;Sist. Nuevo
+2019;Piloto;3;Max Verstappen;Neerlandés;Red Bull Racing-Honda;278;278;Sist. Nuevo
+2019;Piloto;4;Charles Leclerc;Monegasco;Ferrari;264;264;Sist. Nuevo
+2019;Piloto;5;Sebastian Vettel;Alemán;Ferrari;240;240;Sist. Nuevo
+2019;Piloto;6;Carlos Sainz Jr.;Español;McLaren-Renault;96;96;Sist. Nuevo
+2019;Piloto;7;Pierre Gasly;Francés;Red Bull Racing-Honda/Toro Rosso-Honda;95;95;Sist. Nuevo
+2019;Piloto;8;Alexander Albon;Tailandés;Toro Rosso-Honda/Red Bull Racing-Honda;92;92;Sist. Nuevo
+2019;Piloto;9;Daniel Ricciardo;Australiano;Renault;54;54;Sist. Nuevo
+2019;Piloto;10;Sergio Pérez;Mexicano;Racing Point-BWT Mercedes;52;52;Sist. Nuevo
+2019;Piloto;11;Lando Norris;Británico;McLaren-Renault;49;49;Sist. Nuevo
+2019;Piloto;12;Kimi Räikkönen;Finlandés;Alfa Romeo Racing-Ferrari;43;43;Sist. Nuevo
+2019;Piloto;13;Daniil Kvyat;Ruso;Toro Rosso-Honda;37;37;Sist. Nuevo
+2019;Piloto;14;Nico Hülkenberg;Alemán;Renault;37;37;Sist. Nuevo
+2019;Piloto;15;Lance Stroll;Canadiense;Racing Point-BWT Mercedes;21;21;Sist. Nuevo
+2019;Piloto;16;Kevin Magnussen;Dinamarqués;Haas-Ferrari;20;20;Sist. Nuevo
+2019;Piloto;17;Antonio Giovinazzi;Italiano;Alfa Romeo Racing-Ferrari;14;14;Sist. Nuevo
+2019;Piloto;18;Romain Grosjean;Francés;Haas-Ferrari;8;8;Sist. Nuevo
+2019;Piloto;19;Robert Kubica;Polaco;Williams-Mercedes;1;1;Sist. Nuevo
+2019;Piloto;20;George Russell;Británico;Williams-Mercedes;0;0;Sist. Nuevo
+2019;Constructor;1;Mercedes;Alemania;;739;739;Sist. Nuevo
+2019;Constructor;2;Ferrari;Italia;;504;504;Sist. Nuevo
+2019;Constructor;3;Red Bull Racing-Honda;Austria;;417;417;Sist. Nuevo
+2019;Constructor;4;McLaren-Renault;Reino Unido;;145;145;Sist. Nuevo
+2019;Constructor;5;Renault;Francia;;91;91;Sist. Nuevo
+2019;Constructor;6;Toro Rosso-Honda;Italia;;85;85;Sist. Nuevo
+2019;Constructor;7;Racing Point-BWT Mercedes;Reino Unido;;73;73;Sist. Nuevo
+2019;Constructor;8;Alfa Romeo Racing-Ferrari;Suiza;;57;57;Sist. Nuevo
+2019;Constructor;9;Haas-Ferrari;Estados Unidos;;28;28;Sist. Nuevo
+2019;Constructor;10;Williams-Mercedes;Reino Unido;;1;1;Sist. Nuevo
+2020;Piloto;1;Lewis Hamilton;Británico;Mercedes;347;347;Sist. Nuevo
+2020;Piloto;2;Valtteri Bottas;Finlandés;Mercedes;223;223;Sist. Nuevo
+2020;Piloto;3;Max Verstappen;Neerlandés;Red Bull Racing-Honda;214;214;Sist. Nuevo
+2020;Piloto;4;Sergio Pérez;Mexicano;Racing Point-BWT Mercedes;125;125;Sist. Nuevo
+2020;Piloto;5;Daniel Ricciardo;Australiano;Renault;119;119;Sist. Nuevo
+2020;Piloto;6;Carlos Sainz Jr.;Español;McLaren-Renault;105;105;Sist. Nuevo
+2020;Piloto;7;Alexander Albon;Tailandés;Red Bull Racing-Honda;105;105;Sist. Nuevo
+2020;Piloto;8;Charles Leclerc;Monegasco;Ferrari;98;98;Sist. Nuevo
+2020;Piloto;9;Lando Norris;Británico;McLaren-Renault;97;97;Sist. Nuevo
+2020;Piloto;10;Pierre Gasly;Francés;AlphaTauri-Honda;75;75;Sist. Nuevo
+2020;Piloto;11;Lance Stroll;Canadiense;Racing Point-BWT Mercedes;75;75;Sist. Nuevo
+2020;Piloto;12;Esteban Ocon;Francés;Renault;62;62;Sist. Nuevo
+2020;Piloto;13;Sebastian Vettel;Alemán;Ferrari;33;33;Sist. Nuevo
+2020;Piloto;14;Daniil Kvyat;Ruso;AlphaTauri-Honda;32;32;Sist. Nuevo
+2020;Piloto;15;Nico Hülkenberg;Alemán;Racing Point-BWT Mercedes;10;10;Sist. Nuevo
+2020;Piloto;16;Kimi Räikkönen;Finlandés;Alfa Romeo Racing-Ferrari;4;4;Sist. Nuevo
+2020;Piloto;17;Antonio Giovinazzi;Italiano;Alfa Romeo Racing-Ferrari;4;4;Sist. Nuevo
+2020;Piloto;18;George Russell;Británico;Williams-Mercedes;3;3;Sist. Nuevo
+2020;Piloto;19;Romain Grosjean;Francés;Haas-Ferrari;2;2;Sist. Nuevo
+2020;Piloto;20;Kevin Magnussen;Dinamarqués;Haas-Ferrari;1;1;Sist. Nuevo
+2020;Piloto;21;Nicholas Latifi;Canadiense;Williams-Mercedes;0;0;Sist. Nuevo
+2020;Piloto;22;Jack Aitken;Británico;Williams-Mercedes;0;0;Sist. Nuevo
+2020;Piloto;23;Pietro Fittipaldi;Brasileño;Haas-Ferrari;0;0;Sist. Nuevo
+2020;Constructor;1;Mercedes;Alemania;;573;573;Sist. Nuevo
+2020;Constructor;2;Red Bull Racing-Honda;Austria;;319;319;Sist. Nuevo
+2020;Constructor;3;McLaren-Renault;Reino Unido;;202;202;Sist. Nuevo
+2020;Constructor;4;Racing Point-BWT Mercedes;Reino Unido;;195;195;Sist. Nuevo
+2020;Constructor;5;Renault;Francia;;181;181;Sist. Nuevo
+2020;Constructor;6;Ferrari;Italia;;131;131;Sist. Nuevo
+2020;Constructor;7;AlphaTauri-Honda;Italia;;107;107;Sist. Nuevo
+2020;Constructor;8;Alfa Romeo Racing-Ferrari;Suiza;;8;8;Sist. Nuevo
+2020;Constructor;9;Haas-Ferrari;Estados Unidos;;3;3;Sist. Nuevo
+2020;Constructor;10;Williams-Mercedes;Reino Unido;;0;0;Sist. Nuevo
+2021;Piloto;1;Max Verstappen;Neerlandés;Red Bull Racing-Honda;395.5;395.5;Sist. Nuevo
+2021;Piloto;2;Lewis Hamilton;Británico;Mercedes;387.5;387.5;Sist. Nuevo
+2021;Piloto;3;Valtteri Bottas;Finlandés;Mercedes;226;226;Sist. Nuevo
+2021;Piloto;4;Sergio Pérez;Mexicano;Red Bull Racing-Honda;190;190;Sist. Nuevo
+2021;Piloto;5;Carlos Sainz Jr.;Español;Ferrari;164.5;164.5;Sist. Nuevo
+2021;Piloto;6;Lando Norris;Británico;McLaren-Mercedes;160;160;Sist. Nuevo
+2021;Piloto;7;Charles Leclerc;Monegasco;Ferrari;159;159;Sist. Nuevo
+2021;Piloto;8;Daniel Ricciardo;Australiano;McLaren-Mercedes;115;115;Sist. Nuevo
+2021;Piloto;9;Pierre Gasly;Francés;AlphaTauri-Honda;110;110;Sist. Nuevo
+2021;Piloto;10;Fernando Alonso;Español;Alpine-Renault;81;81;Sist. Nuevo
+2021;Piloto;11;Esteban Ocon;Francés;Alpine-Renault;74;74;Sist. Nuevo
+2021;Piloto;12;Sebastian Vettel;Alemán;Aston Martin-Mercedes;43;43;Sist. Nuevo
+2021;Piloto;13;Lance Stroll;Canadiense;Aston Martin-Mercedes;34;34;Sist. Nuevo
+2021;Piloto;14;Yuki Tsunoda;Japonés;AlphaTauri-Honda;32;32;Sist. Nuevo
+2021;Piloto;15;George Russell;Británico;Williams-Mercedes;16;16;Sist. Nuevo
+2021;Piloto;16;Kimi Räikkönen;Finlandés;Alfa Romeo Racing-Ferrari;10;10;Sist. Nuevo
+2021;Piloto;17;Nicholas Latifi;Canadiense;Williams-Mercedes;7;7;Sist. Nuevo
+2021;Piloto;18;Antonio Giovinazzi;Italiano;Alfa Romeo Racing-Ferrari;3;3;Sist. Nuevo
+2021;Piloto;19;Mick Schumacher;Alemán;Haas-Ferrari;0;0;Sist. Nuevo
+2021;Piloto;20;Robert Kubica;Polaco;Alfa Romeo Racing-Ferrari;0;0;Sist. Nuevo
+2021;Piloto;21;Nikita Mazepin;Ruso;Haas-Ferrari;0;0;Sist. Nuevo
+2021;Constructor;1;Mercedes;Alemania;;613.5;613.5;Sist. Nuevo
+2021;Constructor;2;Red Bull Racing-Honda;Austria;;585.5;585.5;Sist. Nuevo
+2021;Constructor;3;Ferrari;Italia;;323.5;323.5;Sist. Nuevo
+2021;Constructor;4;McLaren-Mercedes;Reino Unido;;275;275;Sist. Nuevo
+2021;Constructor;5;Alpine-Renault;Francia;;155;155;Sist. Nuevo
+2021;Constructor;6;AlphaTauri-Honda;Italia;;142;142;Sist. Nuevo
+2021;Constructor;7;Aston Martin-Mercedes;Reino Unido;;77;77;Sist. Nuevo
+2021;Constructor;8;Williams-Mercedes;Reino Unido;;23;23;Sist. Nuevo
+2021;Constructor;9;Alfa Romeo Racing-Ferrari;Suiza;;13;13;Sist. Nuevo
+2021;Constructor;10;Haas-Ferrari;Estados Unidos;;0;0;Sist. Nuevo
+2022;Piloto;1;Max Verstappen;Neerlandés;Red Bull Racing-RBPT;454;454;Sist. Nuevo
+2022;Piloto;2;Charles Leclerc;Monegasco;Ferrari;308;308;Sist. Nuevo
+2022;Piloto;3;Sergio Pérez;Mexicano;Red Bull Racing-RBPT;305;305;Sist. Nuevo
+2022;Piloto;4;George Russell;Británico;Mercedes;275;275;Sist. Nuevo
+2022;Piloto;5;Carlos Sainz Jr.;Español;Ferrari;246;246;Sist. Nuevo
+2022;Piloto;6;Lewis Hamilton;Británico;Mercedes;240;240;Sist. Nuevo
+2022;Piloto;7;Lando Norris;Británico;McLaren-Mercedes;122;122;Sist. Nuevo
+2022;Piloto;8;Esteban Ocon;Francés;Alpine-Renault;92;92;Sist. Nuevo
+2022;Piloto;9;Fernando Alonso;Español;Alpine-Renault;81;81;Sist. Nuevo
+2022;Piloto;10;Valtteri Bottas;Finlandés;Alfa Romeo-Ferrari;49;49;Sist. Nuevo
+2022;Piloto;11;Sebastian Vettel;Alemán;Aston Martin-Mercedes;37;37;Sist. Nuevo
+2022;Piloto;12;Daniel Ricciardo;Australiano;McLaren-Mercedes;37;37;Sist. Nuevo
+2022;Piloto;13;Kevin Magnussen;Dinamarqués;Haas-Ferrari;25;25;Sist. Nuevo
+2022;Piloto;14;Pierre Gasly;Francés;AlphaTauri-RBPT;23;23;Sist. Nuevo
+2022;Piloto;15;Lance Stroll;Canadiense;Aston Martin-Mercedes;18;18;Sist. Nuevo
+2022;Piloto;16;Mick Schumacher;Alemán;Haas-Ferrari;12;12;Sist. Nuevo
+2022;Piloto;17;Yuki Tsunoda;Japonés;AlphaTauri-RBPT;12;12;Sist. Nuevo
+2022;Piloto;18;Zhou Guanyu;Chino;Alfa Romeo-Ferrari;6;6;Sist. Nuevo
+2022;Piloto;19;Alexander Albon;Tailandés;Williams-Mercedes;4;4;Sist. Nuevo
+2022;Piloto;20;Nicholas Latifi;Canadiense;Williams-Mercedes;2;2;Sist. Nuevo
+2022;Piloto;21;Nyck de Vries;Neerlandés;Williams-Mercedes;2;2;Sist. Nuevo
+2022;Piloto;22;Nico Hülkenberg;Alemán;Aston Martin-Mercedes;0;0;Sist. Nuevo
+2022;Constructor;1;Red Bull Racing-RBPT;Austria;;759;759;Sist. Nuevo
+2022;Constructor;2;Ferrari;Italia;;554;554;Sist. Nuevo
+2022;Constructor;3;Mercedes;Alemania;;515;515;Sist. Nuevo
+2022;Constructor;4;Alpine-Renault;Francia;;173;173;Sist. Nuevo
+2022;Constructor;5;McLaren-Mercedes;Reino Unido;;159;159;Sist. Nuevo
+2022;Constructor;6;Alfa Romeo-Ferrari;Suiza;;55;55;Sist. Nuevo
+2022;Constructor;7;Aston Martin-Mercedes;Reino Unido;;55;55;Sist. Nuevo
+2022;Constructor;8;Haas-Ferrari;Estados Unidos;;37;37;Sist. Nuevo
+2022;Constructor;9;AlphaTauri-RBPT;Italia;;35;35;Sist. Nuevo
+2022;Constructor;10;Williams-Mercedes;Reino Unido;;8;8;Sist. Nuevo
+2023;Piloto;1;Max Verstappen;Neerlandés;Red Bull Racing-RBPT;575;575;Sist. Nuevo
+2023;Piloto;2;Sergio Pérez;Mexicano;Red Bull Racing-RBPT;285;285;Sist. Nuevo
+2023;Piloto;3;Lewis Hamilton;Británico;Mercedes;234;234;Sist. Nuevo
+2023;Piloto;4;Fernando Alonso;Español;Aston Martin-Mercedes;206;206;Sist. Nuevo
+2023;Piloto;5;Charles Leclerc;Monegasco;Ferrari;206;206;Sist. Nuevo
+2023;Piloto;6;Lando Norris;Británico;McLaren-Mercedes;205;205;Sist. Nuevo
+2023;Piloto;7;Carlos Sainz Jr.;Español;Ferrari;200;200;Sist. Nuevo
+2023;Piloto;8;George Russell;Británico;Mercedes;175;175;Sist. Nuevo
+2023;Piloto;9;Oscar Piastri;Australiano;McLaren-Mercedes;97;97;Sist. Nuevo
+2023;Piloto;10;Lance Stroll;Canadiense;Aston Martin-Mercedes;74;74;Sist. Nuevo
+2023;Piloto;11;Pierre Gasly;Francés;Alpine-Renault;62;62;Sist. Nuevo
+2023;Piloto;12;Esteban Ocon;Francés;Alpine-Renault;58;58;Sist. Nuevo
+2023;Piloto;13;Alexander Albon;Tailandés;Williams-Mercedes;27;27;Sist. Nuevo
+2023;Piloto;14;Nico Hülkenberg;Alemán;Haas-Ferrari;9;9;Sist. Nuevo
+2023;Piloto;15;Valtteri Bottas;Finlandés;Alfa Romeo-Ferrari;6;6;Sist. Nuevo
+2023;Piloto;16;Guanyu Zhou;Chino;Alfa Romeo-Ferrari;6;6;Sist. Nuevo
+2023;Piloto;17;Yuki Tsunoda;Japonés;AlphaTauri-RBPT;5;5;Sist. Nuevo
+2023;Piloto;18;Kevin Magnussen;Dinamarqués;Haas-Ferrari;3;3;Sist. Nuevo
+2023;Piloto;19;Liam Lawson;Neozelandés;AlphaTauri-RBPT;2;2;Sist. Nuevo
+2023;Piloto;20;Logan Sargeant;Estadounidense;Williams-Mercedes;1;1;Sist. Nuevo
+2023;Piloto;21;Nyck de Vries;Neerlandés;AlphaTauri-RBPT;0;0;Sist. Nuevo
+2023;Piloto;22;Daniel Ricciardo;Australiano;AlphaTauri-RBPT;0;0;Sist. Nuevo
+2023;Constructor;1;Red Bull Racing-RBPT;Austria;;860;860;Sist. Nuevo
+2023;Constructor;2;Mercedes;Alemania;;409;409;Sist. Nuevo
+2023;Constructor;3;Ferrari;Italia;;406;406;Sist. Nuevo
+2023;Constructor;4;Aston Martin-Mercedes;Reino Unido;;280;280;Sist. Nuevo
+2023;Constructor;5;McLaren-Mercedes;Reino Unido;;302;302;Sist. Nuevo
+2023;Constructor;6;Alpine-Renault;Francia;;120;120;Sist. Nuevo
+2023;Constructor;7;Williams-Mercedes;Reino Unido;;28;28;Sist. Nuevo
+2023;Constructor;8;Haas-Ferrari;Estados Unidos;;12;12;Sist. Nuevo
+2023;Constructor;9;Alfa Romeo-Ferrari;Suiza;;12;12;Sist. Nuevo
+2023;Constructor;10;AlphaTauri-RBPT;Italia;;7;7;Sist. Nuevo
+2024;Piloto;1;Max Verstappen;Neerlandés;Red Bull Racing-Honda RBPT;437;437;Sist. Nuevo
+2024;Piloto;2;Lando Norris;Británico;McLaren-Mercedes;366;366;Sist. Nuevo
+2024;Piloto;3;Charles Leclerc;Monegasco;Ferrari;345;345;Sist. Nuevo
+2024;Piloto;4;Lewis Hamilton;Británico;Mercedes;300;300;Sist. Nuevo
+2024;Piloto;5;Carlos Sainz Jr.;Español;Ferrari;289;289;Sist. Nuevo
+2024;Piloto;6;George Russell;Británico;Mercedes;275;275;Sist. Nuevo
+2024;Piloto;7;Sergio Pérez;Mexicano;Red Bull Racing-Honda RBPT;131;131;Sist. Nuevo
+2024;Piloto;8;Fernando Alonso;Español;Aston Martin-Mercedes;110;110;Sist. Nuevo
+2024;Piloto;9;Oscar Piastri;Australiano;McLaren-Mercedes;105;105;Sist. Nuevo
+2024;Piloto;10;Pierre Gasly;Francés;Alpine-Renault;92;92;Sist. Nuevo
+2024;Piloto;11;Esteban Ocon;Francés;Alpine-Renault;88;88;Sist. Nuevo
+2024;Piloto;12;Lance Stroll;Canadiense;Aston Martin-Mercedes;84;84;Sist. Nuevo
+2024;Piloto;13;Alexander Albon;Tailandés;Williams-Mercedes;45;45;Sist. Nuevo
+2024;Piloto;14;Valtteri Bottas;Finlandés;Alfa Romeo-Ferrari;36;36;Sist. Nuevo
+2024;Piloto;15;Yuki Tsunoda;Japonés;AlphaTauri-RBPT;28;28;Sist. Nuevo
+2024;Piloto;16;Kevin Magnussen;Dinamarqués;Haas-Ferrari;25;25;Sist. Nuevo
+2024;Piloto;17;Guanyu Zhou;Chino;Alfa Romeo-Ferrari;22;22;Sist. Nuevo
+2024;Piloto;18;Nico Hülkenberg;Alemán;Haas-Ferrari;18;18;Sist. Nuevo
+2024;Piloto;19;Logan Sargeant;Estadounidense;Williams-Mercedes;12;12;Sist. Nuevo
+2024;Piloto;20;Liam Lawson;Neozelandés;AlphaTauri-RBPT;10;10;Sist. Nuevo
+2024;Piloto;21;Daniel Ricciardo;Australiano;AlphaTauri-RBPT;8;8;Sist. Nuevo
+2024;Piloto;22;Nyck de Vries;Neerlandés;AlphaTauri-RBPT;2;2;Sist. Nuevo
+2024;Constructor;1;McLaren-Mercedes;Reino Unido;;666;666;Sist. Nuevo
+2024;Constructor;2;Ferrari;Italia;;652;652;Sist. Nuevo
+2024;Constructor;3;Red Bull Racing-Honda RBPT;Austria;;589;589;Sist. Nuevo
+2024;Constructor;4;Mercedes;Alemania;;468;468;Sist. Nuevo
+2024;Constructor;5;Aston Martin-Mercedes;Reino Unido;;194;194;Sist. Nuevo
+2024;Constructor;6;Alpine-Renault;Francia;;180;180;Sist. Nuevo
+2024;Constructor;7;Williams-Mercedes;Reino Unido;;57;57;Sist. Nuevo
+2024;Constructor;8;Alfa Romeo-Ferrari;Suiza;;58;58;Sist. Nuevo
+2024;Constructor;9;Haas-Ferrari;Estados Unidos;;43;43;Sist. Nuevo
+2024;Constructor;10;AlphaTauri-RBPT;Italia;;48;48;Sist. Nuevo
